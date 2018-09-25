@@ -1,0 +1,33 @@
+.body{
+  font-family:'Lobster'
+}
+
+a {
+  text-align: left;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif	;
+  font-stretch: ultra-condensed;
+  color:#00ACC1;  
+}
+
+a:hover {
+    color: black;
+}
+
+h1{
+  text-align: center;
+  font-family:  ;
+  font-size:90px;
+  font-weight: 600;
+  
+}
+
+.img{
+  width:400px;
+  display: block;
+  margin: 0 auto; 
+ 
+}
+
+#search{
+  margin-top:20px;
+}
